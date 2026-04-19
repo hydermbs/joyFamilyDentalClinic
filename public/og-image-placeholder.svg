@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#eff8ff"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <rect x="72" y="72" width="1056" height="486" rx="32" fill="#fff" stroke="#dbeefe" stroke-width="2"/>
+  <text x="120" y="220" font-family="system-ui,sans-serif" font-size="42" fill="#0f172a" font-weight="600">
+    Joy Family Dental Clinic
+  </text>
+  <text x="120" y="290" font-family="system-ui,sans-serif" font-size="26" fill="#475569">
+    Replace this Open Graph image in /public/og-image-placeholder.svg
+  </text>
+  <circle cx="1020" cy="200" r="48" fill="#237ee9" opacity="0.9"/>
+</svg>
